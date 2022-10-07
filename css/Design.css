@@ -1,0 +1,663 @@
+::-webkit-scrollbar {
+    width: 6px;
+    padding-right: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #000;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #bbbab9;
+    border-radius: 50px;
+}
+
+.navbar {
+    background: #000;
+    height: 4170px;
+}
+
+.navbar .logo img {
+    width: 80px;
+    margin: -1px;
+    background: #849e81;
+    padding: 10px;
+}
+
+.navbar .elementor-widget-container {
+    --e-transform-rotateZ: -90deg;
+}
+
+.navbar .elementor-heading-title {
+    font-family: unica one, Nunito;
+    color: #fff;
+    margin-left: -207px;
+    font-size: 29px;
+    transform: rotate(270deg);
+    margin-top: 31px;
+    font-weight: 400;
+    text-transform: none;
+    line-height: 1em;
+    letter-spacing: 1px;
+}
+
+.title {
+    margin-top: 73px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+    width: 73%;
+    margin-left: 135px;
+}
+
+.navbar header span {
+    margin-left: 347px;
+    color: #727070;
+    font-size: 17px;
+    font-family: system-ui;
+    font-weight: 600;
+}
+
+.navbar header h1 {
+    font-size: 63px;
+    width: 496px;
+    margin-left: 156px;
+    margin-top: 93px;
+    color: #fff;
+    font-family: 'Nunito';
+    font-weight: 600;
+}
+
+.navbar header h5 {
+    margin-left: 678px;
+    margin-top: -254px;
+    font-size: 16px;
+    font-weight: 800;
+    color: #fff;
+}
+
+.navbar header p {
+    margin-left: 677px;
+    font-size: 21px;
+    width: 426px;
+    color: #fff;
+    font-family: 'Nunito';
+}
+
+.m3mo3at-2 {
+    margin-top: 312px;
+}
+
+.m3mo3at-3 {
+    margin-top: 279px;
+}
+
+h2 {
+    font-size: 38px;
+    margin-left: 148px;
+    margin-top: -369px;
+    width: 486px;
+    color: #fff;
+    font-family: 'Nunito';
+}
+
+h3 {
+    font-size: 28px;
+    margin-left: 146px;
+    width: 474px;
+    color: #fff;
+    font-family: 'Nunito';
+    margin-top: 30px;
+}
+
+h4 {
+    font-size: 22px;
+    margin-left: 149px;
+    width: 459px;
+    color: #fff;
+    font-family: 'Nunito';
+    margin-top: 30px;
+}
+
+h6 {
+    font-size: 16px;
+    margin-left: 149px;
+    margin-top: 30px;
+    color: #fff;
+    width: 363px;
+}
+
+.colors {
+    margin-top: 1155px;
+    margin-left: 174px;
+    width: 341px;
+}
+
+.navbar .colors span {
+    margin-left: 347px;
+    color: #727070;
+    font-size: 17px;
+    font-family: system-ui;
+    font-weight: 600;
+}
+
+.navbar .mgmo3h p {
+    margin-left: 119px;
+    font-size: 17px;
+    width: 516px;
+    color: #fff;
+    font-family: 'Nunito';
+    margin-top: 53px;
+}
+
+.navbar .mgmo3h span {
+    color: #fff;
+    margin-left: 10px;
+}
+
+.navbar .mgmo3hy p {
+    margin-left: 119px;
+    font-size: 17px;
+    width: 516px;
+    color: #656565;
+    font-family: 'Nunito';
+    margin-top: 53px;
+}
+
+.navbar .mgmo3hy span {
+    color: #656565;
+    margin-left: 10px;
+}
+
+.navbar header .button-1 {
+    margin-left: 762px;
+    margin-top: -289px;
+    color: #849e81;
+    font-size: 26px;
+    border: 2px solid #849e81;
+    padding: 10px;
+    margin-right: 377px;
+    transition: 0.3s;
+}
+
+.navbar header .button-1:hover {
+    background: #849e81;
+    color: #000;
+}
+
+.navbar header .button-2 {
+    margin-left: 780px;
+    margin-top: 21px;
+    color: #849e81;
+    font-size: 22px;
+    border: 2px solid #849e81;
+    padding: 10px;
+    margin-right: 389px;
+    transition: 0.3s;
+}
+
+.navbar header .button-2:hover {
+    background: #849e81;
+    color: #000;
+}
+
+.navbar header .button-3 {
+    margin-left: 795px;
+    margin-top: 19px;
+    color: #849e81;
+    font-size: 18px;
+    border: 2px solid #849e81;
+    padding: 10px;
+    margin-right: 403px;
+    transition: 0.3s;
+}
+
+.navbar header .button-3:hover {
+    background: #849e81;
+    color: #000;
+}
+
+.navbar header .button-4 {
+    margin-left: 812px;
+    margin-top: 19px;
+    color: #849e81;
+    font-size: 14px;
+    border: 2px solid #849e81;
+    padding: 10px;
+    margin-right: 417px;
+    transition: 0.3s;
+}
+
+.navbar header .button-4:hover {
+    background: #849e81;
+    color: #000;
+}
+
+.navbar header .button-5 {
+    margin-left: 826px;
+    margin-top: 19px;
+    color: #849e81;
+    font-size: 11px;
+    border: 2px solid #849e81;
+    padding: 10px;
+    margin-right: 428px;
+    transition: 0.3s;
+}
+
+.navbar header .button-5:hover {
+    background: #849e81;
+    color: #000;
+}
+
+.navbar header .drdsha p {
+    color: #fff;
+    margin-left: 1px;
+    margin-top: 47px;
+}
+
+.navbar header .drdsha {
+    width: 439px;
+    margin-left: 194px;
+}
+
+.navbar .drdsha span {
+    margin-left: -1px;
+    color: #ffffff;
+    font-size: 17px;
+    font-family: system-ui;
+    font-weight: 200;
+}
+
+.navbar .drdsha .sign-in {
+    margin-left: 490px;
+    margin-top: -592px;
+}
+
+.navbar .drdsha .sign-hoe {
+    margin-left: 679px;
+    margin-top: 311px;
+}
+
+.navbar .drdsha .sign-hoe h2 {
+    margin-left: 0;
+    font-size: 19px;
+}
+
+.navbar .drdsha .sign-op {
+    margin-left: 492px;
+    margin-top: 398px;
+}
+
+.navbar .drdsha .sign-op h2 {
+    margin-left: 0;
+    font-size: 19px;
+}
+
+.navbar .drdsha .sign-ub {
+    margin-left: 679px;
+    margin-top: 311px;
+}
+
+.navbar .drdsha .sign-ub h2 {
+    margin-left: 0;
+    font-size: 19px;
+}
+
+.navbar .drdsha .sign-um {
+    margin-left: 492px;
+    margin-top: 379px;
+}
+
+.navbar .drdsha .sign-um h2 {
+    margin-left: 0;
+    font-size: 19px;
+}
+
+.navbar .drdsha .nkat hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+    width: 891px;
+    margin-left: -4px;
+}
+
+textarea {
+    width: 367px;
+    height: 133px;
+}
+
+.inpu-text {
+    margin-top: 10px;
+}
+
+.navbar .drdsha .sign-in h2 {
+    color: #fff;
+    font-size: 19px;
+    margin-left: 0px;
+}
+
+.navbar .drdsha span a {
+    color: #849e81;
+    text-decoration: underline;
+}
+
+.navbar .drdsha h5 {
+    margin-left: 0px;
+    margin-top: 47px;
+    font-size: 16px;
+    font-weight: 800;
+    color: #fff;
+}
+
+.navbar .bnd {
+    margin-top: 306px;
+    margin-left: -161px;
+}
+
+.navbar .order-box .box {
+    border: 1px solid #2a2a2a;
+    width: 252px;
+    margin-left: 119px;
+    height: 256px;
+    margin-top: 49px;
+    background: #2a2a2a;
+}
+
+.navbar .order-box .boxs {
+    border: 1px solid #849e81;
+    width: 252px;
+    margin-left: 504px;
+    height: 256px;
+    margin-top: -255px;
+}
+
+.navbar .order-box .box i {
+    font-size: 28px;
+    margin-left: 109px;
+    margin-top: 39px;
+    color: #849e81;
+}
+
+.navbar .order-box .box h3 {
+    font-size: 21px;
+    margin-left: 42px;
+    width: 474px;
+    color: #fff;
+    font-family: 'Nunito';
+    margin-top: 30px;
+}
+
+.navbar .order-box .box p {
+    margin-left: 26px;
+    font-size: 15px;
+    width: 189px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Nunito';
+}
+
+.navbar .order-box .boxs i {
+    font-size: 28px;
+    margin-left: 109px;
+    margin-top: 39px;
+    color: #849e81;
+}
+
+.navbar .order-box .boxs h3 {
+    font-size: 21px;
+    margin-left: 42px;
+    width: 474px;
+    color: #fff;
+    font-family: 'Nunito';
+    margin-top: 30px;
+}
+
+.navbar .order-box .boxs p {
+    margin-left: 26px;
+    font-size: 15px;
+    width: 189px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Nunito';
+}
+
+.navbar .order-box .boxi {
+    border: 1px solid #849e81;
+    width: 252px;
+    margin-left: 842px;
+    height: 256px;
+    margin-top: -255px;
+}
+
+.navbar .order-box .boxi i {
+    font-size: 28px;
+    margin-left: 109px;
+    margin-top: 39px;
+    color: #849e81;
+}
+
+.navbar .order-box .boxi h3 {
+    font-size: 21px;
+    margin-left: 42px;
+    width: 474px;
+    color: #fff;
+    font-family: 'Nunito';
+    margin-top: 30px;
+}
+
+.navbar .order-box .boxi p {
+    margin-left: 26px;
+    font-size: 15px;
+    width: 189px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Nunito';
+}
+
+.navbar .order-box .imges img {
+    margin-top: 40px;
+    width: 124px;
+    margin-left: 145px;
+    margin-right: -119px;
+}
+
+.navbar .order-box .iconts {
+    margin-left: 720px;
+    margin-top: -65px;
+    font-size: 29px;
+}
+
+.navbar .order-box .iconts .fa-bell {
+    background: #849e81;
+    color: #000;
+    border-radius: 100px;
+    padding: 15px;
+    margin-right: 5px;
+}
+
+.navbar .order-box .iconts .fa-bolt-lightning {
+    color: #000;
+    background: #849e81;
+    width: 61px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-right: 14px;
+    padding-left: 18px;
+}
+
+.navbar .order-box .iconts .fa-comment {
+    color: #849e81;
+    border: 3px solid #849e81;
+    border-radius: 60px;
+    padding: 15px;
+    margin-right: 14px;
+}
+
+.linkat {
+    margin-top: 40px;
+}
+
+.linkat span a {
+    margin-left: -85px;
+    border-bottom: 3px solid #fff;
+    padding-bottom: 5px;
+    color: #ffF;
+}
+
+.navbar .order-box .iconts .fa-clipboard-list {
+    color: #849e81;
+    border: 3px solid #849e81;
+    padding: 15px;
+}
+
+.navbar section {
+    margin-top: -2836px;
+}
+
+.navbar section a {
+    font-size: 16px;
+    margin-top: 43px;
+    margin-left: 1196px;
+    color: #849e81;
+    border: 2px solid #849e81;
+    font-weight: 600;
+    padding-left: 14px;
+    transition: 0.5s ease-in-out;
+    margin-right: 27px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    font-family: system-ui;
+}
+
+.navbar section a:hover {
+    background: #849e81;
+    color: #000;
+    text-decoration: none;
+}
+
+.navbar section a:checked {
+    background: #849e81;
+    text-decoration: none;
+    color: #849e81;
+}
+
+.collapse {
+    margin-right: 24px;
+}
+
+.navbar ul {
+    list-style: none;
+    margin-top: 103px;
+    font-size: 21px;
+    text-align: right;
+    width: 172px;
+    margin-left: 1148px;
+}
+
+.navbar ul a {
+    color: #fff;
+    text-decoration: none;
+    padding-right: 10px;
+    transition: 0.3s ease-in-out;
+    border-right: 3px solid rgba(0, 0, 0, 0);
+    font-family: unica one, Sans-serif;
+    line-height: 3;
+}
+
+.navbar ul .home a {
+    color: #849e81;
+    border-right: 3px solid #849e81;
+}
+
+.navbar ul .home a:hover {
+    border-right: 3px solid #849e81;
+}
+
+.navbar ul a:hover {
+    transition: 0.3s ease-in-out;
+    border-right: 3px solid #fff;
+}
+
+.navbar ul li .Active:visited {
+    color: #849e81;
+    border-right: 3px solid #849e81;
+    text-decoration: none;
+    padding-right: 10px;
+    transition: 0.3s ease-in-out;
+    border-right: 3px solid #849e81;
+    font-family: unica one, Sans-serif;
+    line-height: 3;
+}
+
+.Active:link {
+    color: red;
+}
+
+
+/* visited link */
+
+.Active:visited {
+    color: green;
+}
+
+
+/* mouse over link */
+
+.Active:hover {
+    color: hotpink;
+}
+
+
+/* selected link */
+
+.Active:active {
+    color: blue;
+}
+
+.link {
+    text-align: right;
+    margin-right: 53px;
+    margin-top: 483px;
+}
+
+.link p a {
+    color: #636363;
+    font-weight: 500;
+    text-decoration: none;
+    border-bottom: 1px solid #636363;
+    transition: 0.4s ease-in-out;
+}
+
+.link p a:hover {
+    color: #fff;
+}
+
+.link span {
+    color: #636363;
+}
+
+.icon {
+    margin-left: 147px;
+    color: #849e81;
+    margin-top: 20px;
+}
+
+.fa-brands,
+.fab {
+    font-family: "Font Awesome 6 Brands";
+    font-weight: 400;
+    margin-right: 9px;
+    padding: 9px;
+    border: 1px solid #849e81;
+    transition: 0.4s ease-in-out;
+}
+
+.fa-brands:hover {
+    background: #849e81;
+    color: #000;
+}

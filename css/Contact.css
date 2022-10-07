@@ -1,0 +1,229 @@
+::-webkit-scrollbar {
+    width: 6px;
+    padding-right: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #000;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #bbbab9;
+    border-radius: 50px;
+}
+
+.navbar {
+    background: #000;
+    height: 739px;
+}
+
+.navbar .logo img {
+    width: 80px;
+    margin: -1px;
+    background: #849e81;
+    padding: 10px;
+}
+
+.navbar .elementor-widget-container {
+    --e-transform-rotateZ: -90deg;
+}
+
+.navbar .elementor-heading-title {
+    font-family: unica one, Nunito;
+    color: #fff;
+    margin-left: -1326px;
+    font-size: 33px;
+    margin-top: -1226px;
+    margin-right: -44px;
+    font-weight: 400;
+    text-transform: none;
+    line-height: 1em;
+    letter-spacing: 3px;
+    transform: rotate(270deg);
+}
+
+.navbar header h1 {
+    margin-left: 159px;
+    margin-bottom: -18px;
+    color: #849e81;
+    font-family: unica one, Nunito;
+}
+
+.navbar header h2 {
+    font-family: unica one, Nunito;
+    color: #fff;
+    font-size: 49px;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-style: normal;
+    margin-left: 184px;
+}
+
+.navbar header p {
+    font-family: unset;
+    color: #fff;
+    width: 479px;
+    margin-left: 192px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 0px;
+    letter-spacing: 0px;
+}
+
+.navbar header .title .conm {
+    margin-top: 43px;
+}
+
+.navbar header .title .conm i {
+    margin-left: -29px;
+    font-style: normal;
+}
+
+.navbar header .title .cont span {
+    margin-left: -29px;
+    font-size: 17px;
+    color: #686868;
+    font-family: sans-serif;
+}
+
+.navbar header .conter .conr span {
+    margin-left: -29px;
+    font-size: 17px;
+    color: #686868;
+    font-family: sans-serif;
+}
+
+.navbar header .conter .conr i {
+    margin-left: -29px;
+    font-style: normal;
+}
+
+.navbar header .conter .conr {
+    margin-top: 43px;
+}
+
+.navbar section {
+    margin-top: -2836px;
+}
+
+.navbar section a {
+    font-size: 16px;
+    margin-top: 43px;
+    margin-left: 1196px;
+    color: #849e81;
+    border: 2px solid #849e81;
+    font-weight: 600;
+    padding-left: 14px;
+    transition: 0.5s ease-in-out;
+    margin-right: 27px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    font-family: system-ui;
+}
+
+.navbar section a:hover {
+    background: #849e81;
+    color: #000;
+    text-decoration: none;
+}
+
+.navbar section a:checked {
+    background: #849e81;
+    text-decoration: none;
+    color: #849e81;
+}
+
+.collapse {
+    margin-right: 24px;
+}
+
+.navbar ul {
+    list-style: none;
+    margin-top: 103px;
+    font-size: 21px;
+    text-align: right;
+    width: 172px;
+    margin-left: 1148px;
+}
+
+.navbar ul a {
+    color: #fff;
+    text-decoration: none;
+    padding-right: 10px;
+    transition: 0.3s ease-in-out;
+    border-right: 3px solid rgba(0, 0, 0, 0);
+    font-family: unica one, Sans-serif;
+    line-height: 3;
+}
+
+.navbar ul .home a {
+    color: #849e81;
+    border-right: 3px solid #849e81;
+}
+
+.navbar ul .home a:hover {
+    border-right: 3px solid #849e81;
+}
+
+.navbar ul a:hover {
+    transition: 0.3s ease-in-out;
+    border-right: 3px solid #fff;
+}
+
+.navbar ul li a::after {
+    color: #849e81;
+    border-right: 5px solid #849e81;
+}
+
+.link {
+    text-align: right;
+    margin-right: 32px;
+    margin-top: 483px;
+}
+
+.link p a {
+    color: #636363;
+    font-weight: 500;
+    text-decoration: none;
+    border-bottom: 1px solid #636363;
+    transition: 0.4s ease-in-out;
+}
+
+.link p a:hover {
+    color: #fff;
+}
+
+.link span {
+    color: #636363;
+}
+
+.icon {
+    margin-left: 164px;
+    color: #849e81;
+    margin-top: 55px;
+}
+
+.fa-brands,
+.fab {
+    font-family: "Font Awesome 6 Brands";
+    font-weight: 400;
+    font-size: 19px;
+    padding: 7px;
+    border: 1px solid #849e81;
+    transition: 0.4s ease-in-out;
+}
+
+.fa-brands:hover {
+    background: #849e81;
+    color: #000;
+}
+
+img {
+    width: 358px;
+    margin-left: 705px;
+    margin-top: -601px;
+}
+
+.top {
+    margin-top: 1258px;
+}

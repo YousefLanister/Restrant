@@ -1,0 +1,262 @@
+::-webkit-scrollbar {
+    width: 6px;
+    padding-right: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #000;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #bbbab9;
+    border-radius: 50px;
+}
+
+.navbar {
+    background: #000;
+    height: 1750px;
+}
+
+.navbar .logo img {
+    width: 80px;
+    margin: -1px;
+    background: #849e81;
+    padding: 10px;
+}
+
+.navbar .elementor-widget-container {
+    --e-transform-rotateZ: -90deg;
+}
+
+.navbar .elementor-heading-title {
+    font-family: unica one, Nunito;
+    color: #fff;
+    margin-left: -1286px;
+    font-size: 29px;
+    margin-top: -1231px;
+    font-weight: 400;
+    text-transform: none;
+    line-height: 1em;
+    letter-spacing: 1px;
+    transform: rotate(270deg);
+}
+
+.navbar header .link-menu {
+    margin-left: 107px;
+    margin-top: 1227px;
+}
+
+.navbar header .link-menu .Active {
+    color: #849e81;
+    border-bottom: 1px solid #849e81;
+}
+
+.navbar header .link-menu a {
+    margin-left: 62px;
+    color: #fff;
+    font-size: 17px;
+    padding-bottom: 7px;
+    text-decoration: none;
+    transition: 0.4s;
+    font-family: Nunito;
+    border-bottom: 1px solid rgba(0, 0, 0, 0);
+    transition: 0.3s;
+}
+
+.navbar header .link-menu a:hover {
+    transition: 0.4s;
+    border-bottom: 1px solid #fff;
+}
+
+.navbar header h1 {
+    font-size: 48px;
+    margin-top: 66px;
+    margin-left: 188px;
+    color: #fff;
+    font-family: 'NUNITO';
+}
+
+.navbar header h3 {
+    font-size: 20px;
+    color: #fff;
+    margin-left: 189px;
+    font-family: 'Nunito';
+}
+
+.navbar header .m3mo3at {
+    margin-top: 63px;
+}
+
+.navbar header p {
+    margin-left: 190px;
+    color: #777;
+    font-family: 'Nunito';
+}
+
+.navbar header img {
+    width: 319px;
+    margin-left: 698px;
+    margin-top: -395px;
+}
+
+.navbar header .images .img-1 {
+    width: 381px;
+    margin-top: -5px;
+}
+
+.navbar header .images .img-2 {
+    width: 292px;
+    margin-top: 31px;
+    margin-left: 680px;
+}
+
+.navbar header .our-m3mo3at h2 {
+    font-size: 30px;
+    margin-left: 185px;
+    color: #849e81;
+    font-family: 'Nunito';
+}
+
+.navbar header .title-1 h2 {
+    font-size: 30px;
+    margin-left: 185px;
+    color: #849e81;
+    font-family: 'Nunito';
+}
+
+.navbar header .our-m3mo3at {
+    margin-top: -442px;
+}
+
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    width: 409px;
+    border-top: 1px solid #585858;
+    margin-left: 182px;
+}
+
+.navbar header .box h2 {
+    color: #849e81;
+    font-family: 'Nunito';
+}
+
+.navbar header .box span {
+    font-size: 15px;
+    font-weight: 600;
+    color: #849e81;
+}
+
+.navbar header .box p {
+    margin-left: 38px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: -23px;
+    color: #fff;
+}
+
+.navbar section {
+    margin-top: -2836px;
+}
+
+.navbar section a {
+    font-size: 16px;
+    margin-top: 43px;
+    margin-left: 1196px;
+    color: #849e81;
+    border: 2px solid #849e81;
+    font-weight: 600;
+    padding-left: 14px;
+    transition: 0.5s ease-in-out;
+    margin-right: 27px;
+    padding-top: 8px;
+    padding-bottom: 7px;
+    font-family: system-ui;
+}
+
+.navbar section a:hover {
+    background: #849e81;
+    color: #000;
+    text-decoration: none;
+}
+
+.navbar section a:checked {
+    background: #849e81;
+    text-decoration: none;
+    color: #849e81;
+}
+
+.collapse {
+    margin-right: 24px;
+}
+
+.navbar ul {
+    list-style: none;
+    margin-top: 103px;
+    font-size: 21px;
+    text-align: right;
+    width: 172px;
+    margin-left: 1148px;
+}
+
+.navbar ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding-right: 10px;
+    transition: 0.3s ease-in-out;
+    border-right: 2px solid #000;
+    font-family: unica one, Sans-serif;
+    line-height: 3;
+}
+
+.navbar ul li a:hover {
+    transition: 0.3s ease-in-out;
+    border-right: 2px solid #fff;
+}
+
+.navbar ul li a::after {
+    color: #849e81;
+    border-right: 5px solid #849e81;
+}
+
+.link {
+    text-align: right;
+    margin-right: 32px;
+    margin-top: 483px;
+}
+
+.link p a {
+    color: #636363;
+    font-weight: 500;
+    text-decoration: none;
+    border-bottom: 1px solid #636363;
+    transition: 0.4s ease-in-out;
+}
+
+.link p a:hover {
+    color: #fff;
+}
+
+.link span {
+    color: #636363;
+}
+
+.icon {
+    margin-left: 191px;
+    color: #849e81;
+}
+
+.fa-brands,
+.fab {
+    font-family: "Font Awesome 6 Brands";
+    font-weight: 400;
+    padding: 7px;
+    border: 1px solid #849e81;
+    transition: 0.4s ease-in-out;
+}
+
+.fa-brands:hover {
+    background: #849e81;
+    color: #000;
+}
